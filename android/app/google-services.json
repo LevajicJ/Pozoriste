@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634846096280",
+    "project_id": "pozoriste-6c6ec",
+    "storage_bucket": "pozoriste-6c6ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634846096280:android:e3e6da4d89597408a799ed",
+        "android_client_info": {
+          "package_name": "com.example.pozoriste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634846096280-7ff2s71it3tm9vqvb3dbalq8l80v4eru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-KTIu1ZIoqo-iwADP7yWFh9Py3RPctg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634846096280-7ff2s71it3tm9vqvb3dbalq8l80v4eru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
